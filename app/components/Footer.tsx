@@ -21,7 +21,7 @@ const Footer = () => {
             </a>
         </div>
         <div className="flex md:flex-row mt-16 flex-col justify-between items-center">
-            <p className="md:text-base text-sm md:font-normal font-light">Copyright  © 2024Abhilasha Supriya</p>
+            <p className="md:text-base text-sm md:font-normal font-light">Copyright  © 2024 Abhilasha Supriya</p>
         
         <div className="flex items-center md:gap-3 gap-6">
             {socialMedia.map((profile)=>(
